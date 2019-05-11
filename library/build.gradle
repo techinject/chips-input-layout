@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
 group "com.github.techinject"
-version "2.3.0"
+version "2.3.1"
 project.archivesBaseName = 'chips-input-layout'
 
 android {
